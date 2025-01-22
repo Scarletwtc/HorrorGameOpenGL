@@ -1,0 +1,4 @@
+﻿  main.cpp
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\GameEngine\GameEngine\main.cpp(120,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\GameEngine\GameEngine\main.cpp(173,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GameEngine.vcxproj -> M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\GameEngine\Debug\GameEngine.exe

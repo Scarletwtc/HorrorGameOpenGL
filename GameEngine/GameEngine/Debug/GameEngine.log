@@ -1,0 +1,22 @@
+﻿  main.cpp
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\Graphics\TaskManager.h(27,30): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\Graphics\TaskManager.h(35,41): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\Graphics\TaskManager.h(42,33): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(163,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(579,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(653,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(798,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(810,22): warning C4305: '-=': truncation from 'double' to 'float'
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(826,28): warning C4305: '=': truncation from 'double' to 'float'
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(915,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(1024,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(1089,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(1285,27): warning C4305: '=': truncation from 'double' to 'float'
+M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\GameEngine\main.cpp(1364,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GameEngine.vcxproj -> M:\DOCUMENTS_2.0\poli_stuff\y3_s1\acg\ACG_last_version5\ACG_last_version3\ACG_combined2\GameEngine\Debug\GameEngine.exe
